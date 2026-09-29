@@ -324,6 +324,7 @@ sih_webapp/
 - 📄 **Official SIH Idea Description & Architecture Proposal:** [`docs/SIH2026_Idea_Description_KaiZen.md`](docs/SIH2026_Idea_Description_KaiZen.md)
 - 📊 **Business Model & Market Feasibility:** [`Business_Model.pdf`](Business_Model.pdf)
 - 🖼️ **Business Model Canvas:** [`Businees_Model_Canvas.png`](Businees_Model_Canvas.png)
+- 📑 **Comprehensive Business Model Canvas (GovTech & Social Impact):** [`docs/BUSINESS_MODEL_CANVAS_KAIZEN.md`](docs/BUSINESS_MODEL_CANVAS_KAIZEN.md)
 - 🔒 **Zero-Trust Security Reference (NIST SP 800-207):** [`NIST.SP.800-207.pdf`](NIST.SP.800-207.pdf)
 - 💻 **Complete Full-Stack Application Repository:** [GitHub: asmohamedarfeen/sih_web_app](https://github.com/asmohamedarfeen/sih_web_app)
 
