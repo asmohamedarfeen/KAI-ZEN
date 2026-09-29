@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🛡️ KAIZEN : PSWMS
-### **AI-Based Predictive Personnel Stress & Welfare Monitoring System for Uniformed Forces**
+# 🛡️ KAIZEN : FORCE
+### **Forecasting and Operational Readiness through Comprehensive Employee-welfare  Intelligence**
 **Ministry of Home Affairs (MHA) &bull; Central Reserve Police Force (CRPF) &bull; Police II Division**  
 *Theme: MedTech / BioTech / HealthTech &bull; Category: Software &bull; Smart India Hackathon*
 
